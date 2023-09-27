@@ -19,6 +19,10 @@ export default defineAppConfig({
         {
           href: 'https://bos.wiki',
           icon: 'ph:house-simple-fill'
+        },
+        {
+          href: 'https://bos.wiki/discord',
+          icon: 'ph:discord-logo-fill'
         }
       ]
     }
